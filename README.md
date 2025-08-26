@@ -59,4 +59,4 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ## 📌 About
 These projects represent my journey into data analytics, beginning with my **iO-Sphere Fellowship** and continuing through independent portfolio work.  
-They demonstrate how I approach data problems, from cleaning and transformation to creating impactful visualizations that drive insights.
+They demonstrate how I approach data problems, from cleaning and transformation to creating impactful visualisations that drive insights.
