@@ -46,7 +46,14 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 ### 6. HR Employee Attrition Dashboard
 - **Description:** Investigated workforce attrition trends by department, role, age, and job satisfaction.  
 - **Key Insights:** Younger employees and specific departments had higher turnover rates; low satisfaction strongly correlated with attrition.  
-- **Tools:** Power BI, Excel, SQL  
+- **Tools:** Power BI, Excel, SQL
+
+---
+
+### 7. Bank Customer Churn Analysis Dashboard
+- **Description:** Analysed customer churn patterns across demographics, tenure, geography, and engagement to uncover drivers of attrition.
+- **Key Insights:** Overall churn rate was 20%; churn was highest among ages 46–55 and customers in Germany; inactive customers churned nearly twice as much as active ones; churned customers held higher average balances.
+- **Tools:** Power BI, SQL, Excel
 
 ---
 
