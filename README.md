@@ -57,6 +57,13 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ---
 
+### 8. AI Market Performance & Investment Insights Dashboard
+- **Description:** Explored the relationship between AI revenue growth, R&D investments, and stock market impacts across major companies and AI breakthroughs.
+- **Key Insights:** AI revenue reached £483.6bn with steady growth; R&D investment (£714.4bn) strongly correlated with revenue trends; major product launches like GPT releases had the highest positive stock impact; Google and Meta led in both revenue and investment, while OpenAI showed rapid growth from a smaller base.
+- **Tools:** Power BI, SQL, Excel
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: DAX measures, data modelling, interactive dashboards  
 - **SQL**: Data cleaning, transformations, joins  
