@@ -64,6 +64,13 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ---
 
+### 9. Customer Shopping Behaviour & Sales Performance Dashboard
+- **Description:** Analysed customer demographics, shopping preferences, and sales performance across categories, payment methods, and seasons to identify revenue opportunities.
+- **Key Insights:** Total sales reached $233.1K from 4K customers; clothing was the top-performing category; PayPal and credit card dominated payment methods; subscription customers showed higher purchasing activity; discounts significantly boosted sales volume.
+- **Tools:** Power BI, SQL, Excel
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: DAX measures, data modelling, interactive dashboards  
 - **SQL**: Data cleaning, transformations, joins  
