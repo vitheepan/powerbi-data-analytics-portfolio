@@ -71,6 +71,13 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ---
 
+### 10. Health Insurance Charges Dashboard
+- **Description:** Examined health insurance charges by customer demographics, lifestyle factors, and regions to uncover cost drivers and risk patterns.
+- **Key Insights:** Average charges per customer were $13.3K; average customer age was 39 with a BMI of 30.6; smokers incurred significantly higher charges than non-smokers; regional variations showed the South East had the highest average charges; BMI and smoking combined had a strong impact on costs.
+- **Tools:** Power BI, SQL, Excel
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: DAX measures, data modelling, interactive dashboards  
 - **SQL**: Data cleaning, transformations, joins  
