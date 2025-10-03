@@ -78,6 +78,13 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ---
 
+### 11. Spotify User Engagement & Churn Dashboard
+- **Description:** Analysed Spotify user data to uncover patterns in engagement, churn behaviour, and listening habits across demographics, devices, and subscription types.
+- **Key Insights:** Overall churn rate stood at 25.9%, with Family and Student plans showing the highest churn risk; listening time was consistent across age groups, while churn patterns varied by gender and region.
+- **Tools:** Power BI, SQL, Excel
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: DAX measures, data modelling, interactive dashboards  
 - **SQL**: Data cleaning, transformations, joins  
