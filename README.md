@@ -85,6 +85,13 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ---
 
+### 12. Student Performance Analysis Dashboard
+- **Description:** Developed an interactive Power BI dashboard to analyze factors influencing student performance, including study habits, sleep duration, motivation levels, family income, and parental education. The analysis explored how these variables impact exam results, attendance, and learning outcomes.
+- **Key Insights:** Average exam score was 67.2%, with higher attendance and tutoring sessions positively correlating with improved performance. Students with postgraduate-educated parents and greater access to learning resources showed notably better results.
+- **Tools:** Power BI, SQL, Excel
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: DAX measures, data modelling, interactive dashboards  
 - **SQL**: Data cleaning, transformations, joins  
