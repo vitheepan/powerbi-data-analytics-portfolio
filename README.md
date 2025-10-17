@@ -92,6 +92,13 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ---
 
+### 13. Student Performance Dashboard
+- **Description:** Designed and developed an interactive Power BI dashboard to analyze student performance based on key demographic and educational factors, including gender, parental education level, lunch type, and test preparation course completion. The dashboard provides a clear view of how these variables influence scores in Math, Reading, and Writing.
+- **Key Insights:** Students who completed test preparation courses and whose parents have higher education levels achieved higher overall scores. Female students slightly outperformed male students, and those with standard lunch plans tended to score better on average.
+- **Tools:** Power BI, Excel
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: DAX measures, data modelling, interactive dashboards  
 - **SQL**: Data cleaning, transformations, joins  
