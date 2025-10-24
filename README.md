@@ -99,6 +99,13 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ---
 
+### 14. Trendio Marketing Performance Dashboard (Q3 2025)
+- **Description:** Built an interactive Power BI dashboard to analyze Trendio’s Q3 2025 marketing performance, tracking revenue, ad spend, ROI, and conversions across campaigns, countries, and devices.
+- **Key Insights:** Generated £2.48M revenue with 710.43% ROI. Revenue declined from June to September; “Organic SEO” and “Spring Launch” were top campaigns. North America and Europe led in revenue, with desktop users achieving the highest conversion rate.
+- **Tools:** Power BI, Excel
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: DAX measures, data modelling, interactive dashboards  
 - **SQL**: Data cleaning, transformations, joins  
