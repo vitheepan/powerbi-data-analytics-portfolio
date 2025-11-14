@@ -106,6 +106,13 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ---
 
+### 15. Cybersecurity Threat Intelligence Dashboard
+- **Description:** Built a comprehensive and interactive Cybersecurity Threat Intelligence Dashboard in Power BI to monitor network activity, analyse threat patterns, and assess system responses across multiple dimensions including threat level, source country, and protocol.
+- **Key Insights:** Identified 10K total alerts, including 1K high-severity incidents, with over 10bn bytes transferred across the network. High-risk activity originated from multiple global regions, with critical threats showing consistent upward spikes. TCP traffic accounted for the highest data volume, while “Port Scan,” “Malware,” and “Suspicious Login” emerged as the most common alert types. Blocked actions significantly outpaced allowed actions, demonstrating effective system mitigation.
+- **Tools:** Power BI, Excel
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: DAX measures, data modelling, interactive dashboards  
 - **SQL**: Data cleaning, transformations, joins  
