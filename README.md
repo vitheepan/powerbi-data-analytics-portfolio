@@ -113,6 +113,13 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ---
 
+### 16. Estate Market Performance Dashboard
+- **Description:** Built an interactive Estate Market Performance Dashboard in Power BI to analyse residential property listings and sales performance across multiple dimensions, including city, property type, number of bedrooms and bathrooms, presence of a garden, agents, and time.
+- **Key Insights:** Analysed 1,000+ listings showing strong alignment between listing and sold prices, regional demand differences, higher prices for larger properties, and variation in agent performance and time on market.
+- **Tools:** Power BI, Excel
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: DAX measures, data modelling, interactive dashboards  
 - **SQL**: Data cleaning, transformations, joins  
