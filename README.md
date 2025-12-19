@@ -120,6 +120,13 @@ The projects are presented in the order I created them, starting with my **iO-Sp
 
 ---
 
+### 17. Customer Experience Health Check
+- **Description:** Built an interactive Power BI dashboard to monitor customer satisfaction and service performance, analysing CSAT, NPS, recommendation rates, and resolution times across booking channels, customer types, destination types, issue categories, and time.
+- **Key Insights:** Overall CSAT averaged 3.7, while NPS remained low at 0.5, indicating neutral customer loyalty. Longer resolution times were associated with lower satisfaction scores, highlighting operational improvement opportunities. Mobile app users reported higher NPS compared to call centre and website channels, while certain issue categories consistently drove lower CSAT. Trend analysis revealed fluctuations in satisfaction levels over time.
+- **Tools:** Power BI, Excel
+
+---
+
 ## 🛠️ Tools & Skills
 - **Power BI**: DAX measures, data modelling, interactive dashboards  
 - **SQL**: Data cleaning, transformations, joins  
